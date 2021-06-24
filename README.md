@@ -1,9 +1,9 @@
 # Diary - Social Training
 
 ## Technologies Used
-[My image] (#3776AB)  Python 3.9
-Django 
-Docker 
+[My image] (IMG/python.svg)  Python 3.9
+[My image] (IMG/python.svg) Django 
+[My image] (IMG/python.svg)Docker 
 PostgreSQL
 Bootstrap 5
 
